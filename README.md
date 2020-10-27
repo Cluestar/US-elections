@@ -6,3 +6,6 @@ The following is analyzed in the several folders:
       Note: I want to add user input to make it more interactive.
   Visualization of network of friends
       Note: 
+
+Sources: 
+https://www.datanovia.com/en/blog/how-to-create-a-map-using-ggplot2/
