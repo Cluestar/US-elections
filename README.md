@@ -6,6 +6,9 @@ The following is analyzed in the several folders:
       Note: I want to add user input to make it more interactive.
   Visualization of network of friends
       Note: 
+  US elections (two interesting swing states)
+      Predictive
 
 Sources: 
-https://www.datanovia.com/en/blog/how-to-create-a-map-using-ggplot2/
+https://www.datanovia.com/en/blog/how-to-create-a-map-using-ggplot2/ 20-9-2020
+https://edition.cnn.com/election/2020/results/president 05-11-2020
