@@ -36,7 +36,7 @@ names(election) #shows different data frames
 ```
 
 ```{r}
-election$interest_by_region %>% #The %>% operator is a 'pipe' operator, which passes data from the output of the function to the left and puts it, by default, into the first parameter of the function on the right. 
+election$interest_by_region %>%  
   filter(keyword == "Biden") %>% 
   arrange(desc(hits)) #filters on highest to lowest
 ```
@@ -58,4 +58,6 @@ ggplot(votes_map, aes(long, lat, group = group))+
 geom_polygon(aes(fill = hits), color = "white")+
 scale_fill_viridis_c(alpha = 1, direction = -1, option = "E")
 ```
+
+
 
